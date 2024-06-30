@@ -1,2 +1,2 @@
-# Alex-App
+# Bobbys-Barbers-App
 ISD Assignment 2
